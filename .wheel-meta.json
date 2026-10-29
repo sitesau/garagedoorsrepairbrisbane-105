@@ -1,0 +1,22 @@
+{
+  "wheel_id": 512,
+  "structure": "umbrella",
+  "slug": "garagedoorsrepairbrisbane-105",
+  "project": "garage-door-repairs-brisbane-materials-compared-29d621ec14e9591",
+  "parent_t1_ref": "garagedoorsrepairbrisbane-152",
+  "node_role": "feeder",
+  "money_target": "garagedoorsrepairbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane materials compared",
+  "intended_url": "https://sites-e470-2.web.app/garage-door-repairs-brisbane-materials-compared-29d621ec14e9591/",
+  "tier": "T2",
+  "writeback_nonce": "814eac992ca53dc2",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/garage-door-repairs-brisbane-council-and-approvals-70d10c083eb2/",
+      "anchor": "a guide to garage door repairs brisbane council and approvals",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
